@@ -1,2 +1,4 @@
 # QR-Code-Challenge!
-First time using GitHub and completing a challenge.
+Hi there,
+I've just started learning Web Development in November, 2023 and trying to expose myself to GitHub as quickly as possible!
+I'm currently a beginner with HTML and CSS.  
