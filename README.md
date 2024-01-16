@@ -1,4 +1,4 @@
 # QR-Code-Challenge!
-Hi there,
-I've just started learning Web Development in November, 2023 and trying to expose myself to GitHub as quickly as possible!
-I'm currently a beginner with HTML and CSS.  This is the introductory Frontend Mentor QR-Code Challenge!
+
+The only thing throwing me for a loop as of now is the font family.  I've used the family giving in the style guide, but it doesn't seem to be the correct one. 
+Any help regarding which font family to actually use would be appreciated!
